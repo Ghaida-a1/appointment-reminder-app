@@ -1,0 +1,27 @@
+2026-05-10 18:33:45.947: [INFO] VisibilityChanged: 0
+2026-05-10 18:33:45.964: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-10 18:33:45.965: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-10 18:33:45.965: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-10 18:33:45.966: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-10 18:33:45.966: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-10 18:33:45.967: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-10 18:33:45.967: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-10 18:33:45.968: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-10 18:33:45.968: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-10 18:33:45.968: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-10 18:33:45.969: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-10 18:33:45.974: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-05-10 18:33:45.974: [INFO] OnDoneLoading sync enabled: 0
+2026-05-10 18:33:46.016: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-05-10 18:33:46.103: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-05-10 18:33:46.105: [INFO] Primary account changed.
+2026-05-10 18:33:46.105: [INFO] OnPrimaryAccountChanged PrimaryAccountChangeEvent::Type::kSet
+2026-05-10 18:33:46.107: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-05-10 18:33:46.166: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-05-10 18:33:48.753: [INFO] VisibilityChanged: 1
+2026-05-10 18:33:48.987: [INFO] BookmarkNodeAdded, ABU: 0
+2026-05-10 18:33:48.987: [INFO] BookmarkNodeAdded, ABU: 0
+2026-05-10 18:33:48.987: [INFO] BookmarkNodeAdded, ABU: 0
+2026-05-10 18:33:49.412: [INFO] Sync initialization duration: 3064ms
+2026-05-10 18:38:45.914: [INFO] SetTitle, Url: 0, IsFolder: 1, IsWorkspace: 0
+2026-05-10 18:53:23.120: [INFO] VisibilityChanged: 0

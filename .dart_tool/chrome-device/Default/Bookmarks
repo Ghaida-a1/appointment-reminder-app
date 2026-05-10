@@ -1,0 +1,72 @@
+{
+   "checksum": "c4329fcc73476bc07eff3800efbebc17",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13396122585699262",
+            "date_last_used": "0",
+            "date_modified": "13396122585699262",
+            "guid": "e0f6fddc-8260-44f2-b2e2-3d7edde2c419",
+            "id": "6",
+            "name": "000",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13414890785307388",
+            "date_last_used": "13420366132262455",
+            "guid": "fc0a0738-0569-4409-8992-377b7b5e6c09",
+            "id": "7",
+            "name": "Welcome To Colab - Colab",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://colab.research.google.com/?pli=1#",
+            "visit_count": 1
+         }, {
+            "date_added": "13414890848169491",
+            "date_last_used": "13419687865899762",
+            "guid": "f19e5964-ee28-4cf1-9087-dd3218c777e8",
+            "id": "8",
+            "name": "DartPad",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://dartpad.dev/",
+            "visit_count": 2
+         } ],
+         "date_added": "13422911625875714",
+         "date_last_used": "0",
+         "date_modified": "13414890848169491",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "شريط قوائم المفضلة",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13422911625875716",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "قوائم المفضلة الأخرى",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13422911625875723",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "القوائم المفضلة للجوال",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCCdTLxOeAQAAEgAqGFhUMW1wL2hDbkJtY3QwRWZDeVdrS3c9PUgDoAYMEqwBCAgSpwEKHEVVU2Z5c0lsM0lZREtKdmxlREJGdlVLYUFsbz0SJGYxOWU1OTY0LWVlMjgtNGNmMS05MDg3LWRkMzIxOGM3NzdlOBgAIAAoADCmjZKY1TM4hcHdqMMzQIXB3ajDM0occHpxLzhyV2lwVHBrVC9iektyanNKeUNXVk80PVoeIhxibThUbktRaitteUp6U0x1cHVOYUYwMTJTaUk9ZQZuYW/CPgJgBRKsAQgHEqcBChxsdGVkSlIwRzA1ZFpoQ2FHSFYrTE5zZUd5eHc9EiRmYzBhMDczOC0wNTY5LTQ0MDktODk5Mi0zNzdiN2I1ZTZjMDkYACAAKAAwzfnI29czOLPV2ajDM0Cz1dmowzNKHFdseWlQdDRqbVFRT1RpNEJ3VGloZWxLUHdwWT1aHiIcWHhPQk5NeEs5V3Rzaks2SnlpYldISUVrNjIwPWUG3KyJwj4CYAUSrAEIBhKnAQocTnFGVzhpSlUzQ1NyajdSWURLNVVhS1NxSEVBPRIkZTBmNmZkZGMtODI2MC00NGYyLWIyZTItM2Q3ZWRkZTJjNDE5GAAgACgAMKWmvZnhMzjMuL7bwjNApaa9meEzShxWbUdnTjgxaEs4R1h0dUdMZzd3clpxNWhrWUE9Wh4iHEUwT1dxKzE3NWtlOExzMlNxeXV5QTR5OHRWQT1lAAAAAMI+AmAAEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDcyOGM2N2QzLTFkMDUtNWM3YS04YmFmLWRjZDZmYWQ3NmE0NRgAIAAoADCirLrngy84nuDS9/QvQJ7g0vf0L0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQ2ZGZmYzE5Zi0zM2Y1LTViMjEtYjRmNi0yYTJiOGNhODdhZTcYACAAKAAwo6y654MvOL3g0vf0L0C94NL39C9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkMjhkODI5OTMtNzkxZC01Y2MxLThlMmUtZDQ2OWNmZTY1ZDIwGAAgACgAMKesuueDLzjK4dL39C9AyuHS9/QvShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}
